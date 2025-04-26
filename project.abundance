@@ -1340,8 +1340,8 @@
         {
             "atomType": "Molecule",
             "name": "Side",
-            "x": 0.29488158899923606,
-            "y": 0.6778115501519757,
+            "x": 0.29046563192904656,
+            "y": 0.680722891566265,
             "uniqueID": 1745528778054,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
