@@ -68,8 +68,8 @@
         {
             "atomType": "Molecule",
             "name": "Face",
-            "x": 0.21469859620148635,
-            "y": 0.2439759036144578,
+            "x": 0.2109300095877277,
+            "y": 0.2469879518072289,
             "uniqueID": 1745516984516,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -216,8 +216,8 @@
                 {
                     "atomType": "Fusion",
                     "name": "Fusion",
-                    "x": 0.5177539223781998,
-                    "y": 0.3192771084337349,
+                    "x": 0.5110258868648131,
+                    "y": 0.35542168674698793,
                     "uniqueID": 1745522845587,
                     "ioValues": [
                         {
@@ -331,8 +331,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 0.6366639141205616,
-                    "y": 0.4879518072289156,
+                    "x": 0.6318312559923298,
+                    "y": 0.641566265060241,
                     "uniqueID": 1745690828001,
                     "ioValues": [
                         {
@@ -363,6 +363,24 @@
                         }
                     ],
                     "description": "Extrudes a 2D shape. Input can be negitive. "
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 0.7056567593480345,
+                    "y": 0.2891566265060241,
+                    "uniqueID": 1745700349113,
+                    "ioValues": [
+                        {
+                            "name": "geometry2",
+                            "ioValue": 1745522845587
+                        },
+                        {
+                            "name": "geometry1",
+                            "ioValue": 1745522845849
+                        }
+                    ],
+                    "description": "Subtracts shape two from shape one."
                 }
             ],
             "allConnectors": [
@@ -372,6 +390,13 @@
                     "ap2Primary": true,
                     "ap1ID": 1745522845849,
                     "ap2ID": 1745690836041
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap2Primary": false,
+                    "ap1ID": 1745522845849,
+                    "ap2ID": 1745700349113
                 },
                 {
                     "ap1Name": "geometry",
@@ -414,6 +439,13 @@
                     "ap2Primary": true,
                     "ap1ID": 1745522845587,
                     "ap2ID": 1745690828001
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap2Primary": false,
+                    "ap1ID": 1745522845587,
+                    "ap2ID": 1745700349113
                 },
                 {
                     "ap1Name": "geometry",
