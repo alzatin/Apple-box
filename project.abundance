@@ -4,7 +4,12 @@
     "x": 0,
     "y": 0,
     "uniqueID": 1745507193305,
-    "ioValues": [],
+    "ioValues": [
+        {
+            "name": "name1",
+            "ioValue": 10
+        }
+    ],
     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
     "topLevel": true,
     "allAtoms": [
@@ -46,8 +51,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.6524621212121212,
-            "y": 0.463855421686747,
+            "x": 0.7405303030303031,
+            "y": 0.286144578313253,
             "uniqueID": 1745514434214,
             "ioValues": [
                 {
@@ -68,8 +73,8 @@
         {
             "atomType": "Molecule",
             "name": "Face",
-            "x": 0.1963064295485636,
-            "y": 0.35542168674698793,
+            "x": 0.10416666666666667,
+            "y": 0.3072289156626506,
             "uniqueID": 1745516984516,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1740,8 +1745,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.4876893939393939,
-            "y": 0.7560240963855422,
+            "x": 0.5785984848484849,
+            "y": 0.7680722891566265,
             "uniqueID": 1745528917754,
             "ioValues": [
                 {
@@ -1762,6 +1767,16 @@
                 }
             ],
             "description": "Moves a shape laterally in X, Y, Z."
+        },
+        {
+            "atomType": "Input",
+            "name": "name1",
+            "x": 0.04,
+            "y": 0.5331325301204819,
+            "uniqueID": 1745965408211,
+            "ioValues": [],
+            "description": "Adds an input to the parent molecule. If the parent molecule is the top level of the project then the input will be available when the project is shared or imported into another project. Name is editable",
+            "type": "number"
         }
     ],
     "allConnectors": [
