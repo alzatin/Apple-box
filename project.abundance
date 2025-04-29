@@ -20,8 +20,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.42953020134228187,
-            "y": 0.28012048192771083,
+            "x": 0.4384404924760602,
+            "y": 0.4457831325301205,
             "uniqueID": 1745513959807,
             "ioValues": [
                 {
@@ -46,8 +46,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.634186622625929,
-            "y": 0.5210843373493976,
+            "x": 0.6580027359781122,
+            "y": 0.46987951807228917,
             "uniqueID": 1745514434214,
             "ioValues": [
                 {
@@ -68,8 +68,8 @@
         {
             "atomType": "Molecule",
             "name": "Face",
-            "x": 0.2109300095877277,
-            "y": 0.2469879518072289,
+            "x": 0.1963064295485636,
+            "y": 0.35542168674698793,
             "uniqueID": 1745516984516,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -496,8 +496,8 @@
         {
             "atomType": "Molecule",
             "name": "End",
-            "x": 0.12056151940545004,
-            "y": 0.5542168674698795,
+            "x": 0.207250341997264,
+            "y": 0.5963855421686747,
             "uniqueID": 1745528692603,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1372,8 +1372,8 @@
         {
             "atomType": "Molecule",
             "name": "Side",
-            "x": 0.29046563192904656,
-            "y": 0.680722891566265,
+            "x": 0.2961696306429548,
+            "y": 0.7801204819277108,
             "uniqueID": 1745528778054,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1740,8 +1740,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.42090124640460214,
-            "y": 0.47289156626506024,
+            "x": 0.48700410396716826,
+            "y": 0.7198795180722891,
             "uniqueID": 1745528917754,
             "ioValues": [
                 {
