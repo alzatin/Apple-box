@@ -501,8 +501,8 @@
         {
             "atomType": "Molecule",
             "name": "End",
-            "x": 0.207250341997264,
-            "y": 0.5963855421686747,
+            "x": 0.20728534258456202,
+            "y": 0.6385542168674698,
             "uniqueID": 1745528692603,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
