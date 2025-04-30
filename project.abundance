@@ -25,8 +25,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.615521855486173,
-            "y": 0.23493975903614459,
+            "x": 0.5423728813559322,
+            "y": 0.17771084337349397,
             "uniqueID": 1745513959807,
             "ioValues": [
                 {
@@ -51,8 +51,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.7769848349687779,
-            "y": 0.46686746987951805,
+            "x": 0.7386262265834077,
+            "y": 0.4457831325301205,
             "uniqueID": 1745514434214,
             "ioValues": [
                 {
@@ -73,8 +73,8 @@
         {
             "atomType": "Molecule",
             "name": "Face",
-            "x": 0.1623550401427297,
-            "y": 0.3072289156626506,
+            "x": 0.24264049955396969,
+            "y": 0.39457831325301207,
             "uniqueID": 1745516984516,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1377,8 +1377,8 @@
         {
             "atomType": "Molecule",
             "name": "Side",
-            "x": 0.45405887600356826,
-            "y": 0.45481927710843373,
+            "x": 0.44424620874219445,
+            "y": 0.463855421686747,
             "uniqueID": 1745528778054,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1745,8 +1745,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.5985727029438002,
-            "y": 0.7680722891566265,
+            "x": 0.6057091882247994,
+            "y": 0.7650602409638555,
             "uniqueID": 1745528917754,
             "ioValues": [
                 {
