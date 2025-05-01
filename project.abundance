@@ -1377,8 +1377,8 @@
         {
             "atomType": "Molecule",
             "name": "Side",
-            "x": 0.44424620874219445,
-            "y": 0.463855421686747,
+            "x": 0.4425444596443229,
+            "y": 0.5271084337349398,
             "uniqueID": 1745528778054,
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
